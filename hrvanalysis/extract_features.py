@@ -9,7 +9,6 @@ import numpy as np
 import nolds
 from scipy import interpolate
 from scipy import signal
-from astropy.stats import LombScargle
 
 try:
     from astropy.stats import LombScargle
